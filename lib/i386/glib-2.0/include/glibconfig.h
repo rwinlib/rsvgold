@@ -145,7 +145,7 @@ typedef unsigned int guintptr;
 #endif
 
 #define G_THREADS_ENABLED
-#define G_THREADS_IMPL_POSIX
+#define G_THREADS_IMPL_WIN32
 
 #define G_ATOMIC_LOCK_FREE
 
